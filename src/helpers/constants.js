@@ -1,4 +1,4 @@
-const URL_BACKEND = "https://business-partner-api.nobugneverlag.com.br/";
+const URL_BACKEND = "https://localhost:8000/";
 const URL_API_SEGMENT = "api/v1/";
 
 const REQUEST_ERROR_CODE_DEFAULT = "ENF";
